@@ -1,6 +1,6 @@
-# ChatGPT Clone - Fullstack Application
+# GPTClone
 
-A simplified ChatGPT-style application built with React, TypeScript, TailwindCSS, and Node.js Express. This application demonstrates a chat interface with structured table data display, feedback system, and theme switching capabilities.
+A simplified GPT-style application built with React, TypeScript, TailwindCSS, and Node.js Express. This application demonstrates a chat interface with structured table data display, feedback system, and theme switching capabilities.
 
 ## Features
 
